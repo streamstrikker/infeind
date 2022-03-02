@@ -45,24 +45,16 @@ p {
 	margin-left: -260px
 }
 #wrapper {
-	padding: 10px;
-	margin: 0 auto;
+	
 }
 #border {
-	background-color: #99C;
-	border: 1px solid #B90000;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
-	margin: 0 auto;
-	padding: 5px;
-	width:1920px;
-	height:1080px;
+	width:100vw;
+	height:100vh;
 }
 
 #canvas {
-	width:1920px; 
-	height:1080px;
+	width:100vw;
+	height:100vh;
 }
 
 #MMFCanvas {
